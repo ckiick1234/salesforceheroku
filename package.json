@@ -1,6 +1,9 @@
 {
   "name": "suggested-order-fil",
   "version": "0.0.0",
+  "engines": {
+    "node": "8.16.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -21,6 +24,7 @@
     "@angular/platform-browser-dynamic": "~7.0.0",
     "@angular/router": "~7.0.0",
     "core-js": "^2.5.4",
+    "package.json": "^2.0.1",
     "rxjs": "~6.3.3",
     "zone.js": "~0.8.26"
   },
@@ -44,5 +48,9 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.1.6"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.7.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
